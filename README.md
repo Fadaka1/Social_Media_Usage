@@ -165,7 +165,7 @@ E. Business Development: Invest equally in entertainment and social media featur
 
 4. _**Platform Streaming Analysis**_
    * Visualization Type: Stacked column chart.
-   * Total streaming time across platforms.
+   * Metrics Tracked: Total streaming time across platforms.
 
  ![](Total_Streaming_Time_By_Platform.png)
 
@@ -177,6 +177,56 @@ E. Business Development: Invest equally in entertainment and social media featur
       * Users seem to engage with content similarly across different social media platforms.
     
       * The streaming audience is fragmented, meaning users divide their time across multiple platforms rather than focusing on just one.
+
+5. _**Social Media Usage Dashboard**_
+   
+   This provides insights into user engagement with different social media platforms, entertainment preferences, and demographic distributions.
+   
+   * Key Findings:
+    * Total Users: 300k.
+      
+    * Total Streaming Time: 1.28M
+      
+    * Total Engagement:  4.24.
+      
+    * Total Entertainment Users: 14k.
+      
+    * Total Digital Entertainment Usage: 56.98.
+  
+   * User Demographics & Preferences:
+
+      * Primary Platforms: Facebook, Instagram, TikTok.
+    
+      * Preferred Entertainment Platforms: Amazon Prime, Netflix, Spotify.
+    
+      * Preferred Devices for Entertainment: Smartphone, PC, Tablet, Smart TV.
+    
+      * Occupations of Users: Professional, Student, Retired.
+    
+      * Gender Distribution: Male, Female, Other.
+    
+      * Social Media Goals: Education, Entertainment, Networking.
+    
+    * Visual Data Representation:
+  
+    * Streaming Time by Platform: TikTok, Twitter, Facebook, YouTube, Instagram have varying levels of engagement.
+     
+    * Entertainment Usage by Device: Smartphones and PCs dominate, while tablets and Smart TVs have lower engagement
+     
+    * User Distribution by Occupation: Professionals, students, and retired users form the majority.
+     
+    * Engagement by Gender: Males and females show different usage patterns for gaming, entertainment, and video content.
+     
+      * Ad Interaction by Platform: Different platforms have varying levels of ad interactions.
+     
+   ![](Social_Media_Usage_Dashboard.png)
+
+   
+
+   
+   
+
+    
 
  
  
