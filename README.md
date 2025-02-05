@@ -224,7 +224,7 @@ E. Business Development: Invest equally in entertainment and social media featur
     Kindly click on []{<iframe title="Social_Media_Usage_Dashboard." width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWYwYzAwNmEtMGEzZS00ZWMxLTljMzEtYTliZTFlMzQ5OGQ0IiwidCI6ImM0MDM2NzBlLWE0YjEtNDkzNy1hMWU2LWIwOWRlNTk3ZDYzMiJ9" frameborder="0" allowFullScreen="true"></iframe>) to interact with the dashboard.
 
 
-   ### Conclusion:
+   ### Conclusion: 
 
    The analysis of the Social Media Usage dataset reveals significant variations in ad interactions across major platforms, with TikTok, Facebook, and Instagram emerging as leaders in 
    user engagement. These insights underscore the diverse and dynamic nature of the digital advertising landscape, emphasizing the importance of platform-specific strategies. By 
