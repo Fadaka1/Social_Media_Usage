@@ -119,7 +119,7 @@ E. Business Development: Invest equally in entertainment and social media featur
   * Visualization Type: Clustered column Chart with Secondary Visualization.
   * Metrics Tracked:
     * Device total entertainment time.
-    * Daily notification pattern on preferred entertanment platform.
+    * Daily notification pattern on preferred entertainment platform.
 
 ![](Total_Entertainment_Time_And_Sum_Of_Notifications_Received.png)
 
