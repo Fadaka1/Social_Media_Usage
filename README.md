@@ -179,6 +179,8 @@ E. Business Development: Invest equally in entertainment and social media featur
       * The streaming audience is fragmented, meaning users divide their time across multiple platforms rather than focusing on just one.
 
 5. _**Social Media Usage Dashboard**_
+
+    ![](Social_Media_Usage_Dashboard.png)
    
    This provides insights into user engagement with different social media platforms, entertainment preferences, and demographic distributions.
    
@@ -218,8 +220,19 @@ E. Business Development: Invest equally in entertainment and social media featur
     * Engagement by Gender: Males and females show different usage patterns for gaming, entertainment, and video content.
      
       * Ad Interaction by Platform: Different platforms have varying levels of ad interactions.
+
+    Kindly click on []{<iframe title="Social_Media_Usage_Dashboard." width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWYwYzAwNmEtMGEzZS00ZWMxLTljMzEtYTliZTFlMzQ5OGQ0IiwidCI6ImM0MDM2NzBlLWE0YjEtNDkzNy1hMWU2LWIwOWRlNTk3ZDYzMiJ9" frameborder="0" allowFullScreen="true"></iframe>) to interact with the dashboard.
+
+
+   ### Conclusion:
+
+   The analysis of the Social Media Usage dataset reveals significant variations in ad interactions across major platforms, with TikTok, Facebook, and Instagram emerging as leaders in 
+   user engagement. These insights underscore the diverse and dynamic nature of the digital advertising landscape, emphasizing the importance of platform-specific strategies. By 
+   understanding trends in user behavior, platform preferences, and demographic influences, businesses can optimize ad placement and allocate marketing resources more effectively. 
+   Ultimately, this dataset provides critical insights for shaping targeted marketing strategies, informing policy decisions, and addressing the broader societal impact of social media 
+   in an increasingly digital world.
      
-   ![](Social_Media_Usage_Dashboard.png)
+ 
 
    
 
